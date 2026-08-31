@@ -14,7 +14,7 @@ I created two programs:
 2. Open the project folder in the terminal.
 3. Run the first program using:
 
-```bash
+bash
 node app.js
 <img width="450" height="79" alt="Screenshot 2026-09-01 at 3 11 54 AM" src="https://github.com/user-attachments/assets/e83eca15-5baa-41e0-9d11-37e9694409cd" />
 
