@@ -16,9 +16,11 @@ I created two programs:
 
 ```bash
 node app.js
-/var/folders/4z/c2_l5m6156b0v4l4mrvgh_jw0000gn/T/TemporaryItems/NSIRD_screencaptureui_1NO3oX/Screenshot 2026-09-01 at 3.08.24 AM.png
+<img width="450" height="79" alt="Screenshot 2026-09-01 at 3 11 54 AM" src="https://github.com/user-attachments/assets/e83eca15-5baa-41e0-9d11-37e9694409cd" />
 
-/var/folders/4z/c2_l5m6156b0v4l4mrvgh_jw0000gn/T/TemporaryItems/NSIRD_screencaptureui_2rgUa8/Screenshot 2026-09-01 at 3.07.43 AM.png
+
+node introduction.js
+<img width="450" height="79" alt="Screenshot 2026-09-01 at 3 12 10 AM" src="https://github.com/user-attachments/assets/00d65a33-4391-4052-98ca-667903d2d13c" />
 
 ##Comand used 
 
